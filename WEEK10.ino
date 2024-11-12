@@ -3,6 +3,7 @@ int led = 40;
 int led2 = 39;
 
 int button = 33
+int button2 = 34;
 
 void setup() {
   // put your setup code here, to run once:
