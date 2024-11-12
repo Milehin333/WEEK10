@@ -18,4 +18,5 @@ void loop() {
 void lightButtons(){
   digitalWrite(led, HIGH);
   delay(1000);
+  digitalWrite(led, LOW);
 }
